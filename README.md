@@ -1,0 +1,3 @@
+# poker-sim
+
+Card similations
